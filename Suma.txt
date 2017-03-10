@@ -1,0 +1,1 @@
+Con esta tarea sumamos dos número naturales para conocer el resultado. 
